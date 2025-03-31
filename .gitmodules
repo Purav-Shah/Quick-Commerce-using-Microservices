@@ -1,3 +1,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/Purav-Shah/QuickCommerce.git
+[submodule "Quick Commerce Project/BackEnd"]
+	path = Quick Commerce Project/BackEnd
+	url = https://github.com/Purav-Shah/QuickCommerce.git
